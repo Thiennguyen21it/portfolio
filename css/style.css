@@ -719,7 +719,7 @@ body.light hr.separator2 {
   }
 
   .header ul.icon-menu {
-    background-color: #8a2be2;
+    /* background-color: #8a2be2; */
     border-radius: 15px;
     margin: 0;
     padding: 0;
